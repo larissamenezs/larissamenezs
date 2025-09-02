@@ -32,7 +32,10 @@
     </td>
     <td align="center" width="96"> 
         <img src="https://github.com/user-attachments/assets/8ff1cd9b-0321-490b-9a34-da157c4708c1" width="55" height="55" alt="Git" />
-      <br>Vers.Git   
+      <br>Vers.Git
+       <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/c28fdb5a-2d6a-4bc6-a2e0-d132f5df69a6" alt="icon" width="55" height="55" />
+      <br>Spring
     </td>
       <br>
     </td>
